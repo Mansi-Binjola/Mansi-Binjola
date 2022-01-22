@@ -19,14 +19,16 @@ My name is Mansi Binjola. I am a graduate student from DU and currently learning
 
 <h2 align="center">Follow me here 👇 <h2>
 
+<br>
 <p align="center">
     <a href="https://www.linkedin.com/in/Mansi-Binjola/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
     <a href="https://www.twitter.com/mansi_binjola"><img  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://github.com/Mansi-Binjola"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://dev.to/mansibinjola"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 </p>
+<br>
 
-<h2 align="center"> My learning Stack </h2>
+<h1 align="center"> My learning Stack </h1>
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,9 +40,10 @@ My name is Mansi Binjola. I am a graduate student from DU and currently learning
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### Tools and Libraries 
+### Tools, Frameworks and Libraries 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,11 +56,18 @@ My name is Mansi Binjola. I am a graduate student from DU and currently learning
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Thanks to these awesome tools
+### Competitive programming platforms
+
+<a href="https://www.codechef.com/users/binjo22">![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.hackerearth.com/@mansi_binjola">![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)</a>
+<a href="https://leetcode.com/Mansi-Binjola/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
+
+### My everyday learning resources
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 
@@ -66,7 +76,7 @@ My name is Mansi Binjola. I am a graduate student from DU and currently learning
 </p>
 
 
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=Mansi-Binjola.visitor-badge&left_color=darkred&right_color=green" alt="visitor badge" style="display: block; margin: 0 auto"/>
-
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=Mansi-Binjola.Mansi-Binjola.visitor-badge&left_color=darkred&right_color=darkgreen" alt="visitor badge"/>
+</p>
 
